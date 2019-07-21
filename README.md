@@ -12,9 +12,20 @@
 
 
 
+### Skill yang di dapatkan
+
+- Laravel 5.7
+- Codeigniter 3
+- nodejs dan Javascript 
+- VueJs
+- Nuxt
+- git dan md
+
+
+
 ### Week 1 - Belajar PHP dasar dan Codeigniter
 
-**Day 1. Introduce to PHP **
+**Day 1. Introduce to PHP**
 
 - Dasar - Dasar pemrograman PHP , seperti syntax 
 - Conditional Statement dan Looping Statement
@@ -25,7 +36,7 @@
 - Belajar Version Control dengan git
 - [ Latihan ] soal - soal logic seperti asterix , array multidimension , dan membuat halaman sederhana dengan PHP
 - [ Latihan ] mengerjakan challange dari codewars dll 
-- [ Latihan ] belajar 
+- [ Latihan ] belajar menggunakan Markdown
 
 
 
@@ -72,7 +83,7 @@
 
 
 
-**Day 2 - Pengenalan ORM **
+**Day 2 - Pengenalan ORM**
 
 - Belajar MVC pada Laravel part 2 
 
@@ -82,7 +93,7 @@
 
 
 
-**Day 3 - REST API , Jquery ajax dan Axios **
+**Day 3 - REST API , Jquery ajax dan Axios**
 
 - Pengenalan REST API
 - test API menggunakan Postman atau Insomnia
@@ -94,7 +105,7 @@
 
 ### Week 3 - Javascript and VueJS
 
-**Day 1 - JS Basic menggunakan nodejs **
+**Day 1 - JS Basic menggunakan nodejs**
 
 - Javascript Syntax 
 - Data Types - Integer , string , array and Object 
@@ -107,7 +118,7 @@
 
 
 
-**Day 2 - JS ES 6 Lanjutan **
+**Day 2 - JS ES 6 Lanjutan**
 
 - process argv
 
@@ -120,7 +131,7 @@
 
 
 
-**Day 3 - VueJS Introduction **
+**Day 3 - VueJS Introduction**
 
 - Belajar element dan props 
 - belajar event 
