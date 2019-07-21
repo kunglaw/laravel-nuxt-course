@@ -25,6 +25,7 @@
 - Belajar Version Control dengan git
 - [ Latihan ] soal - soal logic seperti asterix , array multidimension , dan membuat halaman sederhana dengan PHP
 - [ Latihan ] mengerjakan challange dari codewars dll 
+- [ Latihan ] belajar 
 
 
 
@@ -40,7 +41,7 @@
 
 
 
-**Day 3. Codeigniter Framework **
+**Day 3. Codeigniter Framework**
 
 - Pengenalan MVC ( Model View Controller )
 
@@ -77,7 +78,7 @@
 
 - Pengenalan ORM pada Laravel 
 - Upload file pada Laravel
-- [ Latihan ] membuat aplikasi E-Commerce sederhana dengan Product CRUD dan fitur cart dengan menggunakan Laravel
+- [ Latihan ] membuat aplikasi Job Vacancy dengan Laravel
 
 
 
@@ -86,12 +87,12 @@
 - Pengenalan REST API
 - test API menggunakan Postman atau Insomnia
 - mengambil data API menggunakan Jquery Ajax dan axios
-- [ Latihan ] membuat halaman html yang mengambil data dari API dengan fitur CRUD
+- [ Latihan ] membuat REST API ( E-Commerce / Trello clone  / Project Management Simple )
 - [ Latihan ] belajar js dasar dari scrimba
 
 
 
-### Week 3 - Javascript and Jquery
+### Week 3 - Javascript and VueJS
 
 **Day 1 - JS Basic menggunakan nodejs **
 
@@ -108,11 +109,34 @@
 
 **Day 2 - JS ES 6 Lanjutan **
 
+- process argv
+
 - Asynchronous dan Synchronous 
 - Callback
 - Promise 
-- nodejs + mysql 
-- 
+- nodejs and mysql , create and read 
+- [ Latihan ] Membuat aplikasi CRUD dengan command prompt , menggunakan process argv
+- [ Latihan ] belajar vueJS introduction at scrimba 
 
-  
+
+
+**Day 3 - VueJS Introduction **
+
+- Belajar element dan props 
+- belajar event 
+- belajar methods 
+- belajar watch 
+- belajar compute 
+- belajar component 
+- belajar get data from API menggunakan axios 
+- install Vue CLI - pengenalan Vue CLI 
+- [ Latihan ] Buat aplikasi to do list sederhana dengan vue js dan axios 
+- [ Latihan ] Pelajari Vue CLI 
+
+
+
+### Week 4 - Nuxt dan Vue CLI 
+
+- Belajar Component dengan Vue CLI
+- belajar 
 
