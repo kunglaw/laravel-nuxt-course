@@ -27,10 +27,10 @@
 
 **Day 1. Introduce to PHP**
 
-- Dasar - Dasar pemrograman PHP , seperti syntax 
-- Conditional Statement dan Looping Statement
-- Tipe data dalam pemrograman PHP ( int, long, string dan array )
-- Belajar membuat function
+- [Dasar - Dasar pemrograman PHP , seperti syntax](https://github.com/kunglaw/laravel-nuxt-course/blob/master/week1/day1/1.basic_php.md) 
+- [Tipe data dalam pemrograman PHP ( int, long, string dan array )](https://github.com/kunglaw/laravel-nuxt-course/blob/master/week1/day1/2.data_type.md)
+- [Conditional Statement dan Looping Statement](https://github.com/kunglaw/laravel-nuxt-course/blob/master/week1/day1/3.conditional_and_looping_statement.md)
+- [Belajar membuat function](https://github.com/kunglaw/laravel-nuxt-course/blob/master/week1/day1/4.Function.md)
 - Variable global ( $_POST, $_GET, $_SESSION) - belajar dari tag form 
 - include dan require , include_once dan require_once
 - Belajar Version Control dengan git
@@ -149,5 +149,5 @@
 ### Week 4 - Nuxt dan Vue CLI 
 
 - Belajar Component dengan Vue CLI
-- belajar 
+- Belajar 
 
